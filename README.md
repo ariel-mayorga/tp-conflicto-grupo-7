@@ -1,2 +1,2 @@
-# tp-conflicto-grupo-7
-Trabajo practico Seminario
+# Trabajo Práctico de Git
+Este archivo será modificado por todos los integrantes del grupo.
