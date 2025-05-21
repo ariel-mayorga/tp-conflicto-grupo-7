@@ -1,3 +1,3 @@
 # Trabajo Práctico de Git
 
-Firma Alejo Integrante B!!
+Este archivo fue editado por C! 
